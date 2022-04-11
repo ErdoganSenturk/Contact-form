@@ -25,7 +25,7 @@ html, body {
     font-weight: bold;
     font-size: 1.1rem;
     padding:3rem;
-    transform: translateX(-60%);
+    transform: translateX(60%);
 }
 
 .container h3 {
